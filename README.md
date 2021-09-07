@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="#"><img width="80%" height="auto" src="https://questionpapershub.com/wp-content/uploads/2021/02/web-development-image.jpg?ezimgfmt=ng:webp/ngcb49" height="100px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://questionpapershub.com/wp-content/uploads/2021/02/web-development-image.jpg?ezimgfmt=ng:webp/ngcb49" height="50px"/></a>
 <!--
 **aniketvairagade/aniketvairagade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
