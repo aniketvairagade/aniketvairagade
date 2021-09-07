@@ -6,7 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-Here are some ideas to get you started:
 
 - 🌱 I am currently learning **Mern Stack**
 - 📫 How to reach me: **aniketvairagade2000@gmail.com  | https://www.linkedin.com/in/aniket-vairagade-a02235190/**
