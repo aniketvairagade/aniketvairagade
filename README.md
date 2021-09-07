@@ -1,5 +1,5 @@
 
-<a href="#"><img align="center" width="50%" height="50%" src="https://www.roadtocode.org/static/media/aniket.c9b587ed.jpg" /></a>
+<a href="#"><img align="center" width="50%" height="50%" src="" /></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am  ANIKET VAIRAGADE </h1>
 <h3 align="center"> Web Developer | Android Developer </h3>
