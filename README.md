@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I am currently learning **Mern Stack**
+- 🌱 I am currently learning **Codeigniter**
 - 📫 How to reach me: **aniketvairagade2000@gmail.com  | https://www.linkedin.com/in/aniket-vairagade-a02235190/**
 
 
