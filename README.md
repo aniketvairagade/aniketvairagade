@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I am currently learning ***Salesforce***
+- 🌱 I am currently learning ***Angular & REST Api | Salesforce***
 - 📫 How to reach me: **aniketvairagade2000@gmail.com  | https://www.linkedin.com/in/aniket-vairagade-a02235190/**
 
 
