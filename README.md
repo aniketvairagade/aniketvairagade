@@ -1,13 +1,12 @@
 
 <a href="#"><img align="center" width="50%" height="50%"  /></a>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am  ANIKET VAIRAGADE </h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I am  ANIKET VAIRAGADE </h1>
 <h3 align="center"> Web Developer</h3>
 
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I am currently learning ***Angular & REST Api | Salesforce***
 - 📫 How to reach me: **aniketvairagade2000@gmail.com  | https://www.linkedin.com/in/aniket-vairagade-a02235190/**
 
 
