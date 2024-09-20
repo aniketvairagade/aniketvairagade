@@ -18,12 +18,14 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![RESTAPI](https://img.shields.io/badge/-RESTAPI-05122A?style=flat&logo=reactnative)&nbsp;
+![Ract-Native](https://img.shields.io/badge/-Ract-Native-05122A?style=flat&logo=reactnative)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![RESTAPI](https://img.shields.io/badge/-RESTAPI-05122A?style=flat&logo=restapi)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=ios)&nbsp;
+![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=iOS)&nbsp;
+
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Salesforce](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)&nbsp;
 
 
