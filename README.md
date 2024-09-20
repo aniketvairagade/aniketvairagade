@@ -24,8 +24,6 @@
 ![RESTAPI](https://img.shields.io/badge/-RESTAPI-05122A?style=flat&logo=restapi)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![iOS](https://img.shields.io/badge/-05122A?style=flat&logo=iOS)&nbsp;
-
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Salesforce](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)&nbsp;
 
 
